@@ -1,0 +1,432 @@
+[
+ {
+   "OrderDate": "1/6/2019",
+   "Region": "East",
+   "Rep1": "Jones",
+   "Rep2": "Sharell",
+   "Item": "Pencil",
+   "Units": 95,
+   "UnitCost": "02.39",
+   "Total": "189.05.00"
+ },
+ {
+   "OrderDate": "1/23/2019",
+   "Region": "Central",
+   "Rep1": "Kivell",
+   "Rep2": "Francisca",
+   "Item": "Binder",
+   "Units": 50,
+   "UnitCost": "20.39",
+   "Total": "999.5"
+ },
+ {
+   "OrderDate": "2/9/2019",
+   "Region": "Central",
+   "Rep1": "Jardine",
+   "Rep2": "Gregg",
+   "Item": "Pencil",
+   "Units": 36,
+   "UnitCost": "05.39",
+   "Total": "180.04.00"
+ },
+ {
+   "OrderDate": "2/26/2019",
+   "Region": "Central",
+   "Rep1": "Gill",
+   "Rep2": "Wendie",
+   "Item": "Pen",
+   "Units": 27,
+   "UnitCost": "20.39",
+   "Total": "540.13.00"
+ },
+ {
+   "OrderDate": "3/15/2019",
+   "Region": "West",
+   "Rep1": "Sorvino",
+   "Rep2": "Miles",
+   "Item": "Pencil",
+   "Units": 56,
+   "UnitCost": "03.39",
+   "Total": "167.44.00"
+ },
+ {
+   "OrderDate": "4/1/2019",
+   "Region": "East",
+   "Rep1": "Jones",
+   "Rep2": "Jeana",
+   "Item": "Binder",
+   "Units": 60,
+   "UnitCost": "05.39",
+   "Total": "299.4"
+ },
+ {
+   "OrderDate": "4/18/2019",
+   "Region": "Central",
+   "Rep1": "Andrews",
+   "Rep2": "Daine",
+   "Item": "Pencil",
+   "Units": 75,
+   "UnitCost": "02.39",
+   "Total": "149.25.00"
+ },
+ {
+   "OrderDate": "5/5/2019",
+   "Region": "Central",
+   "Rep1": "Jardine",
+   "Rep2": "Arnita",
+   "Item": "Pencil",
+   "Units": 90,
+   "UnitCost": "05.39",
+   "Total": "449.1"
+ },
+ {
+   "OrderDate": "5/22/2019",
+   "Region": "West",
+   "Rep1": "Thompson",
+   "Rep2": "Lorine",
+   "Item": "Pencil",
+   "Units": 32,
+   "UnitCost": "02.39",
+   "Total": "64.08.00"
+ },
+ {
+   "OrderDate": "6/8/2019",
+   "Region": "East",
+   "Rep1": "Jones",
+   "Rep2": "Vivan",
+   "Item": "Binder",
+   "Units": 60,
+   "UnitCost": "09.39",
+   "Total": "539.4"
+ },
+ {
+   "OrderDate": "6/25/2019",
+   "Region": "Central",
+   "Rep1": "Morgan",
+   "Rep2": "Ernest",
+   "Item": "Pencil",
+   "Units": 90,
+   "UnitCost": "05.39",
+   "Total": "449.1"
+ },
+ {
+   "OrderDate": "7/12/2019",
+   "Region": "East",
+   "Rep1": "Howard",
+   "Rep2": "Flo",
+   "Item": "Binder",
+   "Units": 29,
+   "UnitCost": "02.39",
+   "Total": "58.11.00"
+ },
+ {
+   "OrderDate": "7/29/2019",
+   "Region": "East",
+   "Rep1": "Parent",
+   "Rep2": "Lilli",
+   "Item": "Binder",
+   "Units": 81,
+   "UnitCost": "20.39",
+   "Total": "1,619.19"
+ },
+ {
+   "OrderDate": "8/15/2019",
+   "Region": "East",
+   "Rep1": "Jones",
+   "Rep2": "Kristyn",
+   "Item": "Pencil",
+   "Units": 35,
+   "UnitCost": "05.39",
+   "Total": "175.05.00"
+ },
+ {
+   "OrderDate": "9/1/2019",
+   "Region": "Central",
+   "Rep1": "Smith",
+   "Rep2": "Tashina",
+   "Item": "Desk",
+   "Units": 2,
+   "UnitCost": "125",
+   "Total": "250"
+ },
+ {
+   "OrderDate": "9/18/2019",
+   "Region": "East",
+   "Rep1": "Jones",
+   "Rep2": "Maryann",
+   "Item": "Pen Set",
+   "Units": 16,
+   "UnitCost": "16.39",
+   "Total": "256.24.00"
+ },
+ {
+   "OrderDate": "10/5/2019",
+   "Region": "Central",
+   "Rep1": "Morgan",
+   "Rep2": "Nicolas",
+   "Item": "Binder",
+   "Units": 28,
+   "UnitCost": "09.39",
+   "Total": "252.12.00"
+ },
+ {
+   "OrderDate": "10/22/2019",
+   "Region": "East",
+   "Rep1": "Jones",
+   "Rep2": "Donn",
+   "Item": "Pen",
+   "Units": 64,
+   "UnitCost": "09.39",
+   "Total": "575.36.00"
+ },
+ {
+   "OrderDate": "11/8/2019",
+   "Region": "East",
+   "Rep1": "Parent",
+   "Rep2": "Arlie",
+   "Item": "Pen",
+   "Units": 15,
+   "UnitCost": "20.39",
+   "Total": "300.25.00"
+ },
+ {
+   "OrderDate": "11/25/2019",
+   "Region": "Central",
+   "Rep1": "Kivell",
+   "Rep2": "Jade",
+   "Item": "Pen Set",
+   "Units": 96,
+   "UnitCost": "05.39",
+   "Total": "479.04.00"
+ },
+ {
+   "OrderDate": "12/12/2019",
+   "Region": "Central",
+   "Rep1": "Smith",
+   "Rep2": "Jenifer",
+   "Item": "Pencil",
+   "Units": 67,
+   "UnitCost": "01.29",
+   "Total": "86.43.00"
+ },
+ {
+   "OrderDate": "12/29/2019",
+   "Region": "East",
+   "Rep1": "Parent",
+   "Rep2": "Meghan",
+   "Item": "Pen Set",
+   "Units": 74,
+   "UnitCost": "16.39",
+   "Total": "1,183.26"
+ },
+ {
+   "OrderDate": "1/15/2020",
+   "Region": "Central",
+   "Rep1": "Gill",
+   "Rep2": "Margert",
+   "Item": "Binder",
+   "Units": 46,
+   "UnitCost": "09.39",
+   "Total": "413.54.00"
+ },
+ {
+   "OrderDate": "2/1/2020",
+   "Region": "Central",
+   "Rep1": "Smith",
+   "Rep2": "Danuta",
+   "Item": "Binder",
+   "Units": 87,
+   "UnitCost": "15",
+   "Total": "1,305.00"
+ },
+ {
+   "OrderDate": "2/18/2020",
+   "Region": "East",
+   "Rep1": "Jones",
+   "Rep2": "Lilliam",
+   "Item": "Binder",
+   "Units": 4,
+   "UnitCost": "05.39",
+   "Total": "20.36"
+ },
+ {
+   "OrderDate": "3/7/2020",
+   "Region": "West",
+   "Rep1": "Sorvino",
+   "Rep2": "Judi",
+   "Item": "Binder",
+   "Units": 7,
+   "UnitCost": "20.39",
+   "Total": "140.33.00"
+ },
+ {
+   "OrderDate": "3/24/2020",
+   "Region": "Central",
+   "Rep1": "Jardine",
+   "Rep2": "Kimiko",
+   "Item": "Pen Set",
+   "Units": 50,
+   "UnitCost": "05.39",
+   "Total": "249.5"
+ },
+ {
+   "OrderDate": "4/10/2020",
+   "Region": "Central",
+   "Rep1": "Andrews",
+   "Rep2": "Alpha",
+   "Item": "Pencil",
+   "Units": 66,
+   "UnitCost": "02.39",
+   "Total": "131.34.00"
+ },
+ {
+   "OrderDate": "4/27/2020",
+   "Region": "East",
+   "Rep1": "Howard",
+   "Rep2": "",
+   "Item": "Pen",
+   "Units": 96,
+   "UnitCost": "05.39",
+   "Total": "479.04.00"
+ },
+ {
+   "OrderDate": "5/14/2020",
+   "Region": "Central",
+   "Rep1": "Gill",
+   "Rep2": "Ronnie",
+   "Item": "Pencil",
+   "Units": 53,
+   "UnitCost": "01.29",
+   "Total": "68.37.00"
+ },
+ {
+   "OrderDate": "5/31/2020",
+   "Region": "Central",
+   "Rep1": "Gill",
+   "Rep2": "Janean",
+   "Item": "Binder",
+   "Units": 80,
+   "UnitCost": "09.39",
+   "Total": "719.2"
+ },
+ {
+   "OrderDate": "6/17/2020",
+   "Region": "Central",
+   "Rep1": "Kivell",
+   "Rep2": "Maxwell",
+   "Item": "Desk",
+   "Units": 5,
+   "UnitCost": "125",
+   "Total": "625"
+ },
+ {
+   "OrderDate": "7/4/2020",
+   "Region": "East",
+   "Rep1": "Jones",
+   "Rep2": "Joaquin",
+   "Item": "Pen Set",
+   "Units": 62,
+   "UnitCost": "05.39",
+   "Total": "309.38.00"
+ },
+ {
+   "OrderDate": "7/21/2020",
+   "Region": "Central",
+   "Rep1": "Morgan",
+   "Rep2": "Britni",
+   "Item": "Pen Set",
+   "Units": 55,
+   "UnitCost": "12.49",
+   "Total": "687.35.00"
+ },
+ {
+   "OrderDate": "8/7/2020",
+   "Region": "Central",
+   "Rep1": "Kivell",
+   "Rep2": "Katheleen",
+   "Item": "Pen Set",
+   "Units": 42,
+   "UnitCost": "24.35.00",
+   "Total": "1,005.90"
+ },
+ {
+   "OrderDate": "8/24/2020",
+   "Region": "West",
+   "Rep1": "Sorvino",
+   "Rep2": "Franklin",
+   "Item": "Desk",
+   "Units": 3,
+   "UnitCost": "275",
+   "Total": "825"
+ },
+ {
+   "OrderDate": "9/10/2020",
+   "Region": "Central",
+   "Rep1": "Gill",
+   "Rep2": "Norine",
+   "Item": "Pencil",
+   "Units": 7,
+   "UnitCost": "01.29",
+   "Total": "09.03"
+ },
+ {
+   "OrderDate": "9/27/2020",
+   "Region": "West",
+   "Rep1": "Sorvino",
+   "Rep2": "Mario",
+   "Item": "Pen",
+   "Units": 76,
+   "UnitCost": "02.39",
+   "Total": "151.24.00"
+ },
+ {
+   "OrderDate": "10/14/2020",
+   "Region": "West",
+   "Rep1": "Thompson",
+   "Rep2": "Morgan",
+   "Item": "Binder",
+   "Units": 57,
+   "UnitCost": "20.39",
+   "Total": "1,139.43"
+ },
+ {
+   "OrderDate": "10/31/2020",
+   "Region": "Central",
+   "Rep1": "Andrews",
+   "Rep2": "Kivell",
+   "Item": "Pencil",
+   "Units": 14,
+   "UnitCost": "01.29",
+   "Total": "18.06"
+ },
+ {
+   "OrderDate": "11/17/2020",
+   "Region": "Central",
+   "Rep1": "Jardine",
+   "Rep2": "Brianna",
+   "Item": "Binder",
+   "Units": 11,
+   "UnitCost": "05.39",
+   "Total": "55.29.00"
+ },
+ {
+   "OrderDate": "12/4/2020",
+   "Region": "Central",
+   "Rep1": "Jardine",
+   "Rep2": "Margert",
+   "Item": "Binder",
+   "Units": 94,
+   "UnitCost": "20.39",
+   "Total": "1,879.06"
+ },
+ {
+   "OrderDate": "12/21/2020",
+   "Region": "Central",
+   "Rep1": "Andrews",
+   "Rep2": "Danuta",
+   "Item": "Binder",
+   "Units": 28,
+   "UnitCost": "05.39",
+   "Total": ""
+ }
+]
